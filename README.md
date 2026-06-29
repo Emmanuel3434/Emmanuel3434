@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🚀 Mis Lenguajes de Programación
-- **Frontend:** HTML5, CSS3, JavaScript
+- **Frontend:** JavaScript
 - **Backend:** Python, Node.js
 - **Bases de datos:** MySQL
