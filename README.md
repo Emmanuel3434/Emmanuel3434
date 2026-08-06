@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🚀 Mis Lenguajes de Programación
-* <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif" width="16"/> Soy desarrollador de mods de Minecraft
+* <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif" width="16"/> 
 - **Frontend:** JavaScript
 - **Backend:** Python, Node.js
 - **Bases de datos:** MySQL
